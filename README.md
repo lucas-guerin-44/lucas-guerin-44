@@ -1,13 +1,10 @@
 # Lucas G.
 
-5 years in fullstack and product engineering: now focused on trading infrastructure and quantitative systems.
-
-## Trading stack
-
-A research-to-execution pipeline built from scratch:
+5 years in fullstack and product engineering: now focused on finance, (trading) infrastructure and data-rich environments.  
+Recent work includes a three-sided marketplace from scratch and a proprietary trading stack (from storing, analysing, testing to running it live).
 
 | Highlighted Repo | What it does |
 |---|---|
-| [Backtesting Engine](https://github.com/lucas-guerin-44/backtesting-engine) | Event-driven backtester with tick-level fills, FIFO order book, latency modeling, Cython hot paths. The core. |
-| [Datalake API](https://github.com/lucas-guerin-44/datalake-api) | Containerized REST + WebSocket API for OHLC and tick data with auto-derived timeframes. FastAPI + DuckDB + PostgreSQL. |
+| [Backtesting Engine](https://github.com/lucas-guerin-44/backtesting-engine) | Event-driven backtester with tick-level fills, FIFO order book, latency modeling, Cython hot paths. |
+| [Datalake API](https://github.com/lucas-guerin-44/datalake-api) | Containerized REST API for OHLC and tick data with auto-derived timeframes. FastAPI + DuckDB + PostgreSQL. |
 
