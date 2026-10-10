@@ -1,4 +1,5 @@
-5 years in fullstack and product engineering. Now focused on finance, trading infrastructure, and data-rich environments.     
+5 years in fullstack and product engineering.  
+Now focused on finance, trading infrastructure, and data-rich environments.     
 
 Recent work includes a proprietary trading stack (storing, analysing, testing, and running it live) and a three-sided marketplace from scratch.  
 
